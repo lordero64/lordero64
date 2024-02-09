@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lordero64
 - 👀 I’m interested in 3d
-- 🌱 I’m currently learning Unity,C#
+- 🌱 I’m currently learning Unity,C#,Java
 - 💞️ I’m looking to collaborate on game
 - 📫 How to reach me lordero@list.ru
 
