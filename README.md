@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lordero64
-- 👀 I’m interested in 3d
-- 🌱 I’m currently learning Unity,C#,Java
-- 💞️ I’m looking to collaborate on game
+- 👀 I’m interested in skills development
+- 🌱 I’m currently learning microservices
+- 💞️ I’m looking for new opportunities
 - 📫 How to reach me lordero@list.ru
 
 <!---
